@@ -1,5 +1,5 @@
 # hello-world
-First Reposotory Creation
+First Repository Creation
 
 Hello I am Sunil,
 
